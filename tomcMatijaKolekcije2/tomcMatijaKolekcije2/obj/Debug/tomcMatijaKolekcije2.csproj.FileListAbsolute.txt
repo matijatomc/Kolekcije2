@@ -1,0 +1,5 @@
+C:\Users\Matija\source\repos\tomcMatijaKolekcije2\tomcMatijaKolekcije2\bin\Debug\tomcMatijaKolekcije2.exe.config
+C:\Users\Matija\source\repos\tomcMatijaKolekcije2\tomcMatijaKolekcije2\bin\Debug\tomcMatijaKolekcije2.exe
+C:\Users\Matija\source\repos\tomcMatijaKolekcije2\tomcMatijaKolekcije2\bin\Debug\tomcMatijaKolekcije2.pdb
+C:\Users\Matija\source\repos\tomcMatijaKolekcije2\tomcMatijaKolekcije2\obj\Debug\tomcMatijaKolekcije2.exe
+C:\Users\Matija\source\repos\tomcMatijaKolekcije2\tomcMatijaKolekcije2\obj\Debug\tomcMatijaKolekcije2.pdb
